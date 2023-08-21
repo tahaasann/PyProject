@@ -15,7 +15,7 @@ def word_emulation(words, n):
     sequential_words = sorted(word_counter.items(), key=lambda x: x[1], reverse=True)
     return sequential_words
 
-file_name = 'deneme-three.txt'
+file_name = 'your-file.txt'
 
 try:
     with open(file_name, 'r', encoding='utf-8') as file:
