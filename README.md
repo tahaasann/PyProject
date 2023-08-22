@@ -9,6 +9,19 @@ First clone the project.
 ```bash
 git clone https://github.com/tahaasann/PyProject.git
 ```
+****
+## Usage
+After cloning the project, login to the file where the project is located from the terminal.
+```bash
+cd pyproject
+```
+***
+## Build
+If you have accessed **PyProject** via Terminal(cmd), all you need to do is to set up and build your files as I have directed below. To build:
+
+```bash
+python app.py
+```
 
 ******
 
